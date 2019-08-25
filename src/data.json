@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "model": "FT 250 TS",
+      "description": "Esta motocicleta de trabajo es para los que buscan una fiel compañera que les permita ser más productivos en sus días.",
+      "currentPrice": 36109.64,
+      "realPrice": 30999.00,
+      "specs": {
+        "engine": [
+          {
+            "title": "Tips de motor",
+            "description": "4 Tiempos, monocilindrico"
+          },
+          {
+            "title": "Cilindrada",
+            "description": "250 CC"
+          },
+          {
+            "title": "Velocidad máxima",
+            "description": "120 km/h"
+          },
+          {
+            "title": "Potencia máxima",
+            "description": "18 Hp @ 8500 RPM"
+          },
+          {
+            "title": "Torque máximo",
+            "description": "16.g N-m @ 6500 RPM"
+          },
+          {
+            "title": "Rendimiento de combustible",
+            "description": "24 km/L"
+          },
+          {
+            "title": "Sistema de arranque",
+            "description": "Eléctrico y de pedal"
+          },
+          {
+            "title": "Transmisión Final",
+            "description": "16 L"
+          },
+          {
+            "title": "Rendimiento de combustible por tanque",
+            "description": "384 km"
+          },
+          {
+            "title": "Capacidad de Aceite",
+            "description": "1.1 L"
+          }
+        ],
+        "chasis": [
+          {
+            "title": "Suspensión delantera",
+            "description": "Horquilla telescópica"
+          },
+          {
+            "title": "Suspensión trasera",
+            "description": "Basculante con doble amortiguador"
+          },
+          {
+            "title": "Frenos delanteros",
+            "description": "Disco sencillo"
+          },
+          {
+            "title": "Frenos traseros",
+            "description": "Tambor"
+          },
+          {
+            "title": "Llanta delantera",
+            "description": "80/90-R18"
+          },
+          {
+            "title": "Llanta trasera",
+            "description": "110/80-R18"
+          }
+        ],
+        "dims": [
+          {
+            "title": "Largo total",
+            "description": "2100 mm"
+          },
+          {
+            "title": "Ancho total",
+            "description": "700 mm"
+          },
+          {
+            "title": "Alto total",
+            "description": "1030 mm"
+          },
+          {
+            "title": "Altura del asiento",
+            "description": "770 mm"
+          },
+          {
+            "title": "Capacidad de carga",
+            "description": "150 kg"
+          },
+          {
+            "title": "Peso en seco",
+            "description": "124.5 kg"
+          }
+        ]
+      }
+    },
+    {
+      "model": "ZT 350 TS",
+      "description": "Esta motocicleta de trabajo es para los que buscan una fiel compañera que les permita ser más productivos en sus días.",
+      "currentPrice": 40000.64,
+      "realPrice": 40000.00,
+      "specs": {
+        "engine": [
+          {
+            "title": "Tips de motor",
+            "description": "4 Tiempos, monocilindrico"
+          },
+          {
+            "title": "Cilindrada",
+            "description": "250 CC"
+          },
+          {
+            "title": "Velocidad máxima",
+            "description": "120 km/h"
+          },
+          {
+            "title": "Potencia máxima",
+            "description": "18 Hp @ 8500 RPM"
+          },
+          {
+            "title": "Torque máximo",
+            "description": "16.g N-m @ 6500 RPM"
+          },
+          {
+            "title": "Rendimiento de combustible",
+            "description": "24 km/L"
+          },
+          {
+            "title": "Sistema de arranque",
+            "description": "Eléctrico y de pedal"
+          },
+          {
+            "title": "Transmisión Final",
+            "description": "16 L"
+          },
+          {
+            "title": "Rendimiento de combustible por tanque",
+            "description": "384 km"
+          },
+          {
+            "title": "Capacidad de Aceite",
+            "description": "1.1 L"
+          }
+        ],
+        "chasis": [
+          {
+            "title": "Suspensión delantera",
+            "description": "Horquilla telescópica"
+          },
+          {
+            "title": "Suspensión trasera",
+            "description": "Basculante con doble amortiguador"
+          },
+          {
+            "title": "Frenos delanteros",
+            "description": "Disco sencillo"
+          },
+          {
+            "title": "Frenos traseros",
+            "description": "Tambor"
+          },
+          {
+            "title": "Llanta delantera",
+            "description": "80/90-R18"
+          },
+          {
+            "title": "Llanta trasera",
+            "description": "110/80-R18"
+          }
+        ],
+        "dims": [
+          {
+            "title": "Largo total",
+            "description": "2100 mm"
+          },
+          {
+            "title": "Ancho total",
+            "description": "700 mm"
+          },
+          {
+            "title": "Alto total",
+            "description": "1030 mm"
+          },
+          {
+            "title": "Altura del asiento",
+            "description": "770 mm"
+          },
+          {
+            "title": "Capacidad de carga",
+            "description": "150 kg"
+          },
+          {
+            "title": "Peso en seco",
+            "description": "124.5 kg"
+          }
+        ]
+      }
+    }
+  ]
+}

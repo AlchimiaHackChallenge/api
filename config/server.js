@@ -5,7 +5,7 @@ module.exports = {
     credentialsRequired: false,
     unless: {
       path: [
-        "/api/surveys/export"
+        "/api"
       ]
     }
   }

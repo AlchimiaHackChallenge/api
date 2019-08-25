@@ -105,7 +105,7 @@ const handlingValidationErrors = ( err, req, res, next ) => {
 }
 
 // Router
-require( './src/api') ( router, mongoose,  config )
+require( './src/api') ( router, mongoose )
 app.use( '/api', authenticate, errorAuthenticate, router, handlingValidationErrors)
 
 mongoose.connect(config.db.dbUri, opMongose).then(

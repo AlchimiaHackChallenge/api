@@ -2,6 +2,7 @@
   "data": [
     {
       "model": "FT 250 TS",
+      "url": "https://tienda.italika.mx/medias/FDGE-DT150SPORT-NARANJA-01-2017-MX.jpg?context=bWFzdGVyfGltYWdlc3wxNzg4NjZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ5L2hhNC84Nzk4ODM0MDk4MjA2LmpwZ3w2ZmRkNTU3MjI2MzNlYjIxN2NhYmRkZDBkNDMwYTA2YTZmYjE5YmI1NjEwMmMyNzRjMjM5NGUyZGJiZmQzMWYz",
       "description": "Esta motocicleta de trabajo es para los que buscan una fiel compañera que les permita ser más productivos en sus días.",
       "currentPrice": 36109.64,
       "realPrice": 30999.00,
@@ -103,23 +104,24 @@
       }
     },
     {
-      "model": "ZT 350 TS",
-      "description": "Esta motocicleta de trabajo es para los que buscan una fiel compañera que les permita ser más productivos en sus días.",
-      "currentPrice": 40000.64,
-      "realPrice": 40000.00,
+      "model": "DT150 Sport",
+      "url": "https://tienda.italika.mx/medias/FDGE-DT150SPORT-NARANJA-01-2017-MX.jpg?context=bWFzdGVyfGltYWdlc3wxNzg4NjZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGQ5L2hhNC84Nzk4ODM0MDk4MjA2LmpwZ3w2ZmRkNTU3MjI2MzNlYjIxN2NhYmRkZDBkNDMwYTA2YTZmYjE5YmI1NjEwMmMyNzRjMjM5NGUyZGJiZmQzMWYz",
+      "description": "Ahorra en combustible sin sacrificar potencia con esta motocicleta de trabajo ideal para avanzar durante todo el día.",
+      "currentPrice": 20999.00,
+      "realPrice": 21988.96,
       "specs": {
         "engine": [
           {
             "title": "Tips de motor",
-            "description": "4 Tiempos, monocilindrico"
+            "description": "Gasolina"
           },
           {
             "title": "Cilindrada",
-            "description": "250 CC"
+            "description": "149 CC"
           },
           {
             "title": "Velocidad máxima",
-            "description": "120 km/h"
+            "description": "90 km/h"
           },
           {
             "title": "Potencia máxima",
